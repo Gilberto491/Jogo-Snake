@@ -1,9 +1,9 @@
-const FPS = 6;
-const SIZE = 25;
-const COLUMNS = 7;
-const ROWS = 7;
+const FPS = 5;
+const SIZE = 33;
+const COLUMNS = 9;
+const ROWS = 9;
 
-const SNAKE_SIZE = 5;
+const SNAKE_SIZE = 2;
 
 const WIDTH = COLUMNS * SIZE;
 const HEIGHT = ROWS * SIZE;
